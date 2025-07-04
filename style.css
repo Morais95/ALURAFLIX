@@ -1,0 +1,17 @@
+body {
+    background-color: lime
+    color:aqua;
+    font-family: 'Trebubuchet MS', 'Cosmic Sans MS',
+    margin: 0;
+}
+
+header {
+    font-size: 60px;
+    padding: 6px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 30px;
+    borden-bottom: double 5px purple
+    text-align:
